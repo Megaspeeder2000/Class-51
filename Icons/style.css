@@ -1,0 +1,41 @@
+h1{
+    color:aqua
+}
+h2{
+    color:red
+}
+h4{
+    color:blue
+}
+*{
+    border:solid
+}
+.Intro{
+    background-color:yellow;
+    display:flex;
+    justify-content: flex-start;
+}
+.Games{
+background-color: springgreen;
+text-align: center;
+}
+.pong{
+    background-color: steelblue;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.trex{
+    background-color: greenyellow;
+    display:flex;
+    justify-content: center;
+
+}
+.Facebook{
+    background-color: gold;
+    display:flex;
+    justify-content: flex-start;
+}
+body{
+    background-color:#808080 ;
+}
